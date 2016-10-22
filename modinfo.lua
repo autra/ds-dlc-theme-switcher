@@ -4,7 +4,7 @@ description = "Restore RoG SoundTrack in main menu."
 
 author = "fisikantix"
 
-version = "0.1"
+version = "0.2"
 
 api_version = 6
 
