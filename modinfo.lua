@@ -15,5 +15,6 @@ dont_starve_compatible = false
 reign_of_giants_compatible = false
 shipwrecked_compatible = true
 dst_compatible = false
+hamlet_compatible = true
 
 restart_required = true
