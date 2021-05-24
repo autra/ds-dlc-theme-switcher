@@ -17,4 +17,19 @@ shipwrecked_compatible = true
 dst_compatible = false
 hamlet_compatible = true
 
-restart_required = true
+restart_required = false
+
+configuration_options = {
+    {
+        name = "mainScreenMusic",
+        label = "Main screen music",
+        options = 
+        {
+            {description = "Original Don't Starve & Reign Of Giants", data = "rog"},
+            {description = "Shipwrecked", data = "shi"},
+            {description = "Hamlet", data = "ham"},
+            {description = "Random", data = "rand"}
+        },
+        default = "donstarve/music/music_FE",
+    }
+}
