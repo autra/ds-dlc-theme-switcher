@@ -1,6 +1,10 @@
 # ds-rog-theme-restorer
 
-Don't Starve mod to restore Reign of Giant Soundtrack in Shipwrecked.
+Don't Starve mod to switch between main screen DLC theme.
+
+Official repo (issues and contrib): https://github.com/autra/ds-dlc-theme-switcher
+
+---
 
 The following is a maintenance doc, mostly for myself because I keep forgetting how to do all of this ;-)
 

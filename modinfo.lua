@@ -1,10 +1,10 @@
-name = "RoG Soundtrack restorer"
+name = "DLC Theme Switcher"
 
-description = "Restore RoG SoundTrack in main menu."
+description = "Allows to switch between DLC themes on the main screen. At the moment you can only choose which DLC music you want, or have it random!"
 
 author = "fisikantix"
 
-version = "1.1"
+version = "0.1"
 
 api_version = 6
 
