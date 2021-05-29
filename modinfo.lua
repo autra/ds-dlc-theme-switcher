@@ -22,7 +22,7 @@ restart_required = false
 configuration_options = {
     {
         name = "mainScreenMusic",
-        label = "Main screen music",
+        label = "Music",
         options = 
         {
             {description = "Original Don't Starve & Reign Of Giants", data = "rog"},
@@ -30,6 +30,6 @@ configuration_options = {
             {description = "Hamlet", data = "ham"},
             {description = "Random", data = "rand"}
         },
-        default = "donstarve/music/music_FE",
+        default = "rog",
     }
 }
