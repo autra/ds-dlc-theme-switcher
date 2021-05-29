@@ -1,4 +1,4 @@
-# ds-rog-theme-restorer
+# ds-dlc-theme-switcher
 
 Don't Starve mod to switch between main screen DLC theme.
 
