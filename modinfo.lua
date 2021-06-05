@@ -31,5 +31,20 @@ configuration_options = {
             {description = "Random", data = "rand"}
         },
         default = "rog",
+    },
+    {
+        name = "mainScreenBgColor",
+        label = "Background color",
+        options = 
+        {
+            {description = "Don't Starve", data = "RED"},
+            {description = "Reign Of Giants", data = "PURPLE"},
+            {description = "Shipwrecked", data = "TEAL"},
+            {description = "Hamlet", data = "GREEN"},
+            {description = "Bonus1", data = "YELLOW"},
+            {description = "Bonus2", data = "MUSTARD"},
+            {description = "Random", data = "rand"}
+        },
+        default = "RED",
     }
 }
