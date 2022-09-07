@@ -1,6 +1,6 @@
 name = "DLC Theme Switcher"
 
-description = "Allows to switch between DLC themes on the main screen. At the moment you can only choose which DLC music you want, or have it random!"
+description = "Switch between DLC themes on the main screen. At the moment you can choose the music and the background, or make it random!"
 
 author = "fisikantix"
 
