@@ -8,7 +8,7 @@ version = "0.1"
 
 api_version = 6
 
-forumthread ="https://github.com/autra/ds-rog-theme-restorer/issues"
+forumthread ="https://forums.kleientertainment.com/forums/topic/143036-new-mod-dlc-theme-switcher/"
 
 -- Compatible only with SW. Must have the sound and theme files to change them!
 dont_starve_compatible = false
