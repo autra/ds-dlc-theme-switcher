@@ -16,4 +16,4 @@ For a typical steam installation, you must copy this folder to `~/.steam/steam/s
 
 ## Publish
 
-Use "Don't starve mod tools".
+Use "Don't starve mod tools", but make a folder without the .git.
